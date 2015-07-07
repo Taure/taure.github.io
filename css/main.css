@@ -1,9 +1,7 @@
-nav {
-  background-color: #0000aa;
-  color: #ffffff;
+body, .leftbar, .topbar, .rightbar {
+  background-color: #E6E6F5;
 }
 
-h1 {
-  background-color: #0000aa;
-  color: #ffffff;
+nav {
+  background-color: #A1A1AC;
 }
